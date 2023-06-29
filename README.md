@@ -2,7 +2,7 @@
 EXAGEAR XEGW MOD AJAY
 
 Just a Simple Modification Cache by Ajay
-
+-----------------------------------------
 ⚡ Is their a system requirements for T+Z Acceleration ?
 Minimum:
 
@@ -40,13 +40,13 @@ Yes, But It's in very early stage and may not work at all.
 Absolutely no, this is ExaGear but much better and modified, but you may want to check Box64Droid or Box4Droid.
 
 ❤️Acknowledgements
-Termux-X11 by @Twaik
-Windows Compatibility Layer by WineHQ
-EDPatcher by @bu2ub
-Input-Bridge by @DotNetBurst
-3D Renderers by @alexvorxx
-DXVK by @Doitsujin
-WineD3D For Windows by @Adolfintel
+Termux-X11 by @Twaik,
+Windows Compatibility Layer by WineHQ,
+EDPatcher by @bu2ub,
+Input-Bridge by @DotNetBurst,
+3D Renderers by @alexvorxx,
+DXVK by @Doitsujin,
+WineD3D For Windows by @Adolfintel,
 And ExaGear International Devs & Testers and modmakers
 
 ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
@@ -55,4 +55,10 @@ ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 
 https://mega.nz/folder/73Q0HJ5A#GUqiV_u_ca0ICydG9EVdIw
 
-note- exagear will be updated automatically in this default link .
+Changelog in link
+
+Note- exagear will be updated automatically in this default link .
+ I am doing this for fun and there is no guarantee to support this in the future.
+ 
+ 
+    
