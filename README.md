@@ -53,11 +53,13 @@ ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 ---------------------------------------------------
 ⚡ ExaGear Xegw mod ajay link -
 
-https://mega.nz/folder/73Q0HJ5A#GUqiV_u_ca0ICydG9EVdIw
+ ED 4.9
+
+https://mega.nz/folder/LyZABBhQ#GUqiV_u_ca0ICydG9EVdIw 
 
 Changelog in link
 
-Note- exagear will be updated automatically in this default link .
+Note- 
  I am doing this for fun and there is no guarantee to support this in the future.
  
  
