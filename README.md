@@ -53,9 +53,12 @@ ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 ---------------------------------------------------
 ⚡ ExaGear Xegw mod ajay link -
 
- ED 4.9
+⚡ ED 4.9
 
 https://mega.nz/folder/LyZABBhQ#GUqiV_u_ca0ICydG9EVdIw 
+
+⚡ dxvk lite cache is added in obb folder, you can use clone app
+
 
 Changelog in link
 
