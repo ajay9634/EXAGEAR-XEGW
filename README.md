@@ -59,11 +59,17 @@ https://mega.nz/folder/LyZABBhQ#GUqiV_u_ca0ICydG9EVdIw
 
 ⚡ dxvk lite cache is added in obb folder, you can use clone app
 
+⚡ Net framework compressed by Ajay
+
+Unpack to D drive and Read instructions 
+
+https://mega.nz/file/K2wGxArS#jcr8JRWq8hiIiA9gugGkpIg9f48wT5J43TZ9e_dVEQM
+   
+
 
 Changelog in link
 
 Note- 
  I am doing this for fun and there is no guarantee to support this in the future.
  
- 
-    
+
