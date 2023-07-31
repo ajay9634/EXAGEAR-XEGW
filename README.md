@@ -51,13 +51,27 @@ And ExaGear International Devs & Testers and modmakers
 
 ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 ---------------------------------------------------
-⚡ ExaGear Xegw mod ajay link -
+⚡️New Exagear v5.0+xegw ,lite
 
-⚡ ED 4.9
+Changelog- 
 
-https://mega.nz/folder/LyZABBhQ#GUqiV_u_ca0ICydG9EVdIw 
+-Removed all Extra files to reduce and secure cache
+- deleted unusual files from each renderer
+- now optimization is good
+- added popup hint message
 
-⚡ dxvk lite cache is added in obb folder, you can use clone app
+Obb changelog is final. But apk may be updated by EDPatch in the future or you can update by yourself.
+
+
+👉Steps for updating Apk by EDPatch
+
+uninstall previous version of EDPatch and install new from GitHub. select app and patch features and install patched apk.
+
+Link-
+
+https://mega.nz/folder/LzoFCAbb#GUqiV_u_ca0ICydG9EVdIw
+
+Now Bye bye Exagear
 
 ⚡ Net framework compressed by Ajay
 
@@ -67,9 +81,5 @@ https://mega.nz/file/K2wGxArS#jcr8JRWq8hiIiA9gugGkpIg9f48wT5J43TZ9e_dVEQM
    
 
 
-Changelog in link
 
-Note- 
- I am doing this for fun and there is no guarantee to support this in the future.
- 
 
