@@ -51,14 +51,19 @@ And ExaGear International Devs & Testers and modmakers
 
 ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 ---------------------------------------------------
-⚡️New Exagear v5.0+xegw ,lite
+⚡️New Exagear v5.0,Fix+xegw v2 ,lite
 
 Changelog- 
 
 -Removed all Extra files to reduce and secure cache
 - deleted unusual files from each renderer
-- now optimization is good
 - added popup hint message
+-after fix- added direct x and vc redist to system32 as default then no need to install from External source
+- added winfile as default TFM
+- re edited ajay theme, after installing restart the container
+- added f5taskmgr from hugo cache
+- re optimised the cache and rescanned by windows defender and result is - clean and safe
+- added apk by EDPatch 0.0.6
 
 Obb changelog is final. But apk may be updated by EDPatch in the future or you can update by yourself.
 
