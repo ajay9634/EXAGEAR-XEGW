@@ -51,11 +51,17 @@ And ExaGear International Devs & Testers and modmakers
 
 ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 ---------------------------------------------------
-⚡️New Exagear v5.0,Fix+xegw v2 ,lite
+⚡️⚡️New Exagear v5.0,Fix2+xegw ,lite
 
 Changelog- 
+In New fix2
+- added dx+vc scanned by virus total 
+- Re-added guestcont-pattern  scanned by virus total
+- added cpu core 7 dxvk desktop for fixing the freezing issue in bioshock and Assassin creed 2 and just cause2 (it works for me)
 
--Removed all Extra files to reduce and secure cache
+Old changelog 
+- Re optimised 
+- -Removed all Extra files to reduce and secure cache
 - deleted unusual files from each renderer
 - added popup hint message
 -after fix- added direct x and vc redist to system32 as default then no need to install from External source
