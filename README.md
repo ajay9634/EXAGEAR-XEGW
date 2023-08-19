@@ -90,6 +90,14 @@ Unpack to D drive and Read instructions
 
 https://mega.nz/file/K2wGxArS#jcr8JRWq8hiIiA9gugGkpIg9f48wT5J43TZ9e_dVEQM
    
+❤️⚡️Clamwin antivirus (repacked by Ajay)
+
+Password - ajay
+
+Works in all pc emu(Exagear , winlator ,box64, box86 etc)
+
+
+https://mega.nz/folder/C7xhSbQR#8_GL3oBmAUSJh3PUy7jXNQ
 
 
 
