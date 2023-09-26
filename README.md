@@ -50,6 +50,9 @@ WineD3D For Windows by @Adolfintel,
 And ExaGear International Devs & Testers and modmakers
 
 ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
+
+My discord link
+https://discord.gg/XpbEp3dWv3
 ---------------------------------------------------
 ⚡⚡⚡ED 5.1, DRI 3, XEGW 2
 
@@ -138,6 +141,7 @@ Highlights -
 -updated dxvk-development installer
 
 https://mega.nz/folder/PmJ0WDaC#eAcNPb8UeqJP3Xhx-zzEEQ
+
 ⚡ Net framework compressed by Ajay
 
 Unpack to D drive and Read instructions 
