@@ -51,6 +51,23 @@ And ExaGear International Devs & Testers and modmakers
 
 ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 ---------------------------------------------------
+⚡⚡⚡ED 5.1, DRI 3, XEGW 2
+
+- based on multiwine 7.4 dri3 
+- added my direct x and some other files
+- deleted some Extra files
+- reduced cache size
+- replace prefix to Ajay prefix
+
+Note- fps may be different in the non dri3  environment, everything is changed.
+Some games have better fps in Turnip DXVK, and some games have better fps in the dri3 environment.
+Don't use dri3 in dxvk 2.0 below like 1.10.3 and dxvk 0.96, fps maybe low.
+
+-Link
+
+
+https://mega.nz/folder/L341kayS#TYRSUXpO_XkoK3Pcd2wnUA
+
 ⚡️⚡️New Exagear v5.0,Fix2+xegw ,lite
 
 Changelog- 
@@ -82,19 +99,52 @@ Link-
 
 https://mega.nz/folder/LzoFCAbb#GUqiV_u_ca0ICydG9EVdIw
 
-Now Bye bye Exagear
 
+⚡️ED(3,4,6,7,8) V 4.8,base fix47 (old,non xegw)
+
+✏️changelog
+
+###############################
+
+- added wine 7.3 for Latest dxvk support
+- added new turnip Zink of aderno 610 and aderno 7xx
+- added Termux desktop for virGl users too
+-fixed hugo registry to support reg file (not reg1)
+- added wine prefix with Update-timestamp enable and disable option
+- added wined3d 8.3 to 8.9
+-added WineD3D proton 8.0.2
+- fixed 'reset wined3d of wine'
+-added async dxvk latest ,8vk latest and d3d8to9
+- updated dxvk development version
+- added' ExaGear_WineD3DX11_GFOXSH.exe' (may be slow)
+-removed some files from the Start menu 
+-updated 'help' in the start menu
+
+###############################
+ https://mega.nz/folder/fqZGFAgJ#yEt2PYGWh1F9hB__09Ciww
+
+⚡⚡⚡ED(3,4,6,7,8) V 4.7 BASE HUGO(old,non xegw)
+
+HIGHLIGHTS -
+
+ED(3,4,6,7,8) V 4.7 final
+
+Highlights -
+
+-added wine 7.0.2 stable (working dxvk)
+- fixed registry for mali( recommended external virGl overlay apk)
+- added some new desktop
+- added new type installer according to renderer(dxvk, T+Z, virGl)
+-updated dxvk-development installer
+
+https://mega.nz/folder/PmJ0WDaC#eAcNPb8UeqJP3Xhx-zzEEQ
 ⚡ Net framework compressed by Ajay
 
 Unpack to D drive and Read instructions 
 
 https://mega.nz/file/K2wGxArS#jcr8JRWq8hiIiA9gugGkpIg9f48wT5J43TZ9e_dVEQM
    
-❤️⚡️Clamwin antivirus (repacked by Ajay)
 
-Password - ajay
-
-Works in all pc emu(Exagear , winlator ,box64, box86 etc)
 
 
 https://mega.nz/folder/C7xhSbQR#8_GL3oBmAUSJh3PUy7jXNQ
