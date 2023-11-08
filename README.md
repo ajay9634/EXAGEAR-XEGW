@@ -54,22 +54,22 @@ ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 My discord link
 https://discord.gg/XpbEp3dWv3
 ---------------------------------------------------
-⚡⚡⚡ED 5.1, DRI 3, XEGW 2
+🔥Exagear v 5.3 mod Ajay
+⚡ED 5.3 + xegw 2.2 
 
-- based on multiwine 7.4 dri3 
-- added my direct x and some other files
-- deleted some Extra files
-- reduced cache size
-- replace prefix to Ajay prefix
+- fixed pulse.reg and added to the Start menu (now you can run pulse sound again with x server apk)
+- added 'currently installed renderer 'check option
+- added some fixes from winlator afei (dxvk limit ,some reg etc)
+- added 'repair container' option to the start menu
+- added some winetricks offline
+- added offline install option of wine mono 8.1
+- added an option to fix the games desktop for the current Container.
+- added d3d8to9_v1.12.0
+- uploaded ED 4.9 xegw apk (in ED 4.9 apk ,dri will not work, sometimes Black screen,to fix this force stop exagear, non dri 3 environment are fast)
 
-Note- fps may be different in the non dri3  environment, everything is changed.
-Some games have better fps in Turnip DXVK, and some games have better fps in the dri3 environment.
-Don't use dri3 in dxvk 2.0 below like 1.10.3 and dxvk 0.96, fps maybe low.
+🔥Link
 
--Link
-
-
-https://mega.nz/folder/L341kayS#TYRSUXpO_XkoK3Pcd2wnUA
+<https://mega.nz/folder/P74CyCgJ#TYRSUXpO_XkoK3Pcd2wnUA>
 
 ⚡️⚡️New Exagear v5.0,Fix2+xegw ,lite
 
