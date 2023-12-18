@@ -54,105 +54,18 @@ ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 My discord link
 https://discord.gg/XpbEp3dWv3
 ---------------------------------------------------
-🔥Exagear v 5.3 mod Ajay
-⚡ED 5.3 + xegw 2.2 
-
-- fixed pulse.reg and added to the Start menu (now you can run pulse sound again with x server apk)
-- added 'currently installed renderer 'check option
-- added some fixes from winlator afei (dxvk limit ,some reg etc)
-- added 'repair container' option to the start menu
-- added some winetricks offline
-- added offline install option of wine mono 8.1
-- added an option to fix the games desktop for the current Container.
-- added d3d8to9_v1.12.0
-- uploaded ED 4.9 xegw apk (in ED 4.9 apk ,dri will not work, sometimes Black screen,to fix this force stop exagear, non dri 3 environment are fast)
-
-🔥Link
-
-<https://mega.nz/folder/P74CyCgJ#TYRSUXpO_XkoK3Pcd2wnUA>
-
-⚡️⚡️New Exagear v5.0,Fix2+xegw ,lite
-
-Changelog- 
-In New fix2
-- added dx+vc scanned by virus total 
-- Re-added guestcont-pattern  scanned by virus total
-- added cpu core 7 dxvk desktop for fixing the freezing issue in bioshock and Assassin creed 2 and just cause2 (it works for me)
-
-Old changelog 
-- Re optimised 
-- -Removed all Extra files to reduce and secure cache
-- deleted unusual files from each renderer
-- added popup hint message
--after fix- added direct x and vc redist to system32 as default then no need to install from External source
-- added winfile as default TFM
-- re edited ajay theme, after installing restart the container
-- added f5taskmgr from hugo cache
-- re optimised the cache and rescanned by windows defender and result is - clean and safe
-- added apk by EDPatch 0.0.6
-
-Obb changelog is final. But apk may be updated by EDPatch in the future or you can update by yourself.
 
 
-👉Steps for updating Apk by EDPatch
+⚡🔥ED 5.5+ XEGW 2.2
 
-uninstall previous version of EDPatch and install new from GitHub. select app and patch features and install patched apk.
+- fixed env and added new env in container settings 
+- reduced cache size
+- added prefix option( ajay csmt3 ,ajay2 csmt3 and wine csmt3)
+- edited renderer.txt
 
-Link-
+🔥Link-
 
-https://mega.nz/folder/LzoFCAbb#GUqiV_u_ca0ICydG9EVdIw
+https://mega.nz/folder/3jpkUbgB#TYRSUXpO_XkoK3Pcd2wnUA
 
-
-⚡️ED(3,4,6,7,8) V 4.8,base fix47 (old,non xegw)
-
-✏️changelog
-
-###############################
-
-- added wine 7.3 for Latest dxvk support
-- added new turnip Zink of aderno 610 and aderno 7xx
-- added Termux desktop for virGl users too
--fixed hugo registry to support reg file (not reg1)
-- added wine prefix with Update-timestamp enable and disable option
-- added wined3d 8.3 to 8.9
--added WineD3D proton 8.0.2
-- fixed 'reset wined3d of wine'
--added async dxvk latest ,8vk latest and d3d8to9
-- updated dxvk development version
-- added' ExaGear_WineD3DX11_GFOXSH.exe' (may be slow)
--removed some files from the Start menu 
--updated 'help' in the start menu
-
-###############################
- https://mega.nz/folder/fqZGFAgJ#yEt2PYGWh1F9hB__09Ciww
-
-⚡⚡⚡ED(3,4,6,7,8) V 4.7 BASE HUGO(old,non xegw)
-
-HIGHLIGHTS -
-
-ED(3,4,6,7,8) V 4.7 final
-
-Highlights -
-
--added wine 7.0.2 stable (working dxvk)
-- fixed registry for mali( recommended external virGl overlay apk)
-- added some new desktop
-- added new type installer according to renderer(dxvk, T+Z, virGl)
--updated dxvk-development installer
-
-https://mega.nz/folder/PmJ0WDaC#eAcNPb8UeqJP3Xhx-zzEEQ
-
-⚡ Net framework compressed by Ajay
-
-Unpack to D drive and Read instructions 
-
-https://mega.nz/file/K2wGxArS#jcr8JRWq8hiIiA9gugGkpIg9f48wT5J43TZ9e_dVEQM
-   
-
-
-
-https://mega.nz/folder/C7xhSbQR#8_GL3oBmAUSJh3PUy7jXNQ
-
-
-
+--------------------------------------
 
