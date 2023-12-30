@@ -54,18 +54,3 @@ ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 My discord link
 https://discord.gg/XpbEp3dWv3
 ---------------------------------------------------
-
-
-⚡🔥ED 5.5+ XEGW 2.2
-
-- fixed env and added new env in container settings 
-- reduced cache size
-- added prefix option( ajay csmt3 ,ajay2 csmt3 and wine csmt3)
-- edited renderer.txt
-
-🔥Link-
-
-https://mega.nz/folder/3jpkUbgB#TYRSUXpO_XkoK3Pcd2wnUA
-
---------------------------------------
-
