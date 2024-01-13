@@ -84,7 +84,7 @@ Exagear common problems and solutions
 - install dsound 7 , it's very fast
 
 ? Dxvk compatibility on wine-
--wine 3.19 and above - you can use dxvk 1.10.3 and older
+- wine 3.19 and above - you can use dxvk 1.10.3 and older
 - wine 7.1 and above - you can use latest dxvk
 
 ? How to use pulse audio?
