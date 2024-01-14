@@ -140,11 +140,11 @@ some users may face problem to pulse audio. you can use external app Xserver XSD
 
 `pkg install pulseaudio -y`
 
-- Second step- Then run this cmd to activate pulse audio
-
-``pulseaudio --start \
+- Second step- Then run this cmd[<2] to activate pulse audio
+[^2]: pulseaudio --start \
     --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1" \
-    --exit-idle-time=-1``
+    --exit-idle-time=-1
+
 
 - Third step- if pulse not detected in winecfg then install pulse.reg from the Registry Start menu 
 -----------------------------------------------------
