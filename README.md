@@ -128,7 +128,26 @@ Exagear common problems and solutions
 - if you can't understand some features or option then go to my discord and ask questions.
 - you can try other mod too .
 - I modified for only me and my games and shared to my friends and if you have any problems then you can use other mod Exagear.
---------------------------------------
+------------------------------------------------------------
+#Pulse audio Bug
+some users may face problem to pulse audio. you can use external app Xserver XSDL appor use Termux
+
+🔥If you want to use termux x11 pulse audio in Exagear
+
+(Follow these commands in termux)
+
+- First step- install pulse audio in turmux by this cmd
+
+`pkg install pulseaudio -y`
+
+- Second step- Then run this cmd to activate pulse audio
+
+`pulseaudio --start \
+    --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1" \
+    --exit-idle-time=-1`  
+
+- Third step- if pulse not detected in winecfg then install pulse.reg from the Registry Start menu 
+-----------------------------------------------------
 
 ❤️Acknowledgements
 Termux-X11 by @Twaik,
