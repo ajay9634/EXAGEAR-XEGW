@@ -129,7 +129,7 @@ Exagear common problems and solutions
 - you can try other mod too .
 - I modified for only me and my games and shared to my friends and if you have any problems then you can use other mod Exagear.
 ------------------------------------------------------------
-#Pulse audio Bug
+# Pulse audio Bug
 some users may face problem to pulse audio. you can use external app Xserver XSDL appor use Termux
 
 🔥If you want to use termux x11 pulse audio in Exagear
