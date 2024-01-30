@@ -166,8 +166,4 @@ My discord link-
 https://dsc.gg/emuplay0
 
 ---------------------------------------------------
-🔥 Support Ajay
-
-https://mega.nz/folder/bnYmjDDQ#2USNCINNV_dG4JcYwpAF_w
---------------------------------------
 -------------
