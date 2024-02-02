@@ -165,5 +165,6 @@ ExaGear international discord link- https://discord.gg/Uy3UEMSrtY
 My discord link-
 https://dsc.gg/emuplay0
 
----------------------------------------------------
+you can support me here- 
+https://ko-fi.com/ajay9634---------------------------------------------------
 -------------
