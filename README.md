@@ -1,17 +1,17 @@
 ---
 
-EXAGEAR-XEGW MOD AJAY
+# EXAGEAR-XEGW MOD AJAY
 
 A simple but powerful modification cache by Ajay.
 
 
 ---
 
-System Requirements
+# System Requirements
 
-T+Z Acceleration
+- T+Z Acceleration
 
-Minimum:
+-- Minimum:
 
 Adreno 610 (Snapdragon 665, 680)
 
@@ -28,7 +28,7 @@ Adreno 620 (Snapdragon 765, 765G)
 Adreno 630 (Snapdragon 845, 850)
 
 
-Recommended:
+-- Recommended:
 
 Adreno 640 (Snapdragon 855, 855+, 860)
 
@@ -40,27 +40,18 @@ Adreno 660 (Snapdragon 888, 888+)
 
 
 
-DXVK Acceleration
+- DXVK Acceleration
 
 Supported: Adreno 610, 618, and higher (7xx Series GPUs).
 
 
-VirGL Acceleration
+- VirGL Acceleration
 
-Supported by almost all GPUs with OpenGL ES 2.1 (3.0) and higher.
-
-
-Unsupported Devices
-
-Devices with Adreno 5xx GPUs or Mali GPUs can only use:
-
-VirGL Renderer
-
-LLVM
+- LLVM
 
 
 
-64-bit / x64 Application Support
+- 64-bit / x64 Application Support
 
 Not supported. This mod focuses on 32-bit applications. For 64-bit apps, check out Box64Droid or Box4Droid.
 
@@ -68,9 +59,9 @@ Not supported. This mod focuses on 32-bit applications. For 64-bit apps, check o
 
 ---
 
-Common Problems & Solutions
+# Common Problems & Solutions
 
-3D Test Not Working
+- 3D Test Not Working
 
 For Mali or non-Snapdragon SOCs:
 
@@ -84,7 +75,7 @@ For Mali or non-Snapdragon SOCs:
 
 
 
-For Snapdragon SOCs:
+- For Snapdragon SOCs:
 
 1. Select Turnip DXVK or Turnip DRI3 Renderer in Container Properties.
 
@@ -94,7 +85,7 @@ For Snapdragon SOCs:
 
 
 
-Game Crashes
+- Game Crashes
 
 1. Install required dependencies:
 
@@ -129,7 +120,7 @@ Wined3D (e.g., 4.18 for older games).
 
 
 
-Performance Optimization
+- Performance Optimization
 
 Boost Performance:
 
@@ -149,7 +140,7 @@ Install PulseAudio or specific DSOUND versions (dsound 7).
 
 
 
-FPS Counter
+- FPS Counter
 
 Enable FPS HUD:
 
@@ -160,9 +151,9 @@ Go to Container Properties → Extra Launching Arguments → Enable FPS HUD and 
 
 ---
 
-Additional Features
+- Additional Features
 
-Save Game Management
+-- Save Game Management
 
 Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
 
@@ -172,9 +163,9 @@ export import save data feature Supports backing up save data across multiple co
 
 ---
 
-Known Bugs
+- Known Bugs
 
-PulseAudio Issues
+-- PulseAudio Issues
 
 Use the XServer XSDL app or Termux as a workaround:
 
