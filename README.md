@@ -91,27 +91,29 @@ A simple but powerful modification cache by Ajay.
 
        Wined3D (e.g., 4.18 for older games).
 
-### Performance Optimization
+ ### Performance Optimization
 
-1. Boost Performance:
+     1. Boost Performance:
 
-Go to Start Menu → Boost → Install boost_on.
+     Go to Start Menu → Boost → Install boost_on.
 
-2. Renderer Settings:
+     2. Renderer Settings:
 
-Use Zink 11.11.23 for speed.
+     Use Zink 11.11.23 for speed.
 
-Enable CSMT 3 from the registry.
+     3. Registry
+     
+     Enable CSMT 3 from the registry.
 
-3. Audio Optimization:
+     4. Audio Optimization:
 
-Install PulseAudio or specific DSOUND versions (dsound 7).
+      Install PulseAudio or specific DSOUND versions (dsound 7).
 
-### FPS Counter
+ ### FPS Counter
 
-- Enable FPS HUD:
+    - Enable FPS HUD:
 
-Go to Container Properties → Extra Launching Arguments → Enable FPS HUD and DXVK HUD.
+     Go to Container Properties → Extra Launching Arguments → Enable FPS HUD and DXVK HUD.
 
 ---
 
