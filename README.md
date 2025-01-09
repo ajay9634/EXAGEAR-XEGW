@@ -97,17 +97,21 @@ A simple but powerful modification cache by Ajay.
 
    Go to Start Menu → Boost → Install boost_on.
 
- 3. Renderer Settings:
+ 2. Renderer Settings:
 
    Use Zink 11.11.23 for speed.
 
- 4. Registry
+ 3. Registry
      
    Enable CSMT 3 from the registry.
 
- 5. Audio Optimization:
+ 4. Audio Optimization:
 
    Install PulseAudio or specific DSOUND versions (dsound 7).
+   
+ 5. Extra optimization
+
+    install various things from the Start Menu
 
  ### Enable FPS Counter
 
