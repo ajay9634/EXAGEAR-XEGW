@@ -81,22 +81,29 @@ A simple but powerful modification cache by Ajay.
 
    1. Install required dependencies:
 
-      DirectX , VC Redist, PhysX , Mono Gecko
+      DirectX , VC Redist, PhysX , Mono Gecko etc.
 
    2. Change Wine version:
 
-      Use Wine 4 for DirectDraw (DDraw) games.
+      1. Use Wine 4 for DirectDraw (DDraw) and old dx games.
+      2. Use wine 8.2 for dx9,dx10,dx11 games
 
    3. Adjust resolution:
 
       Match game resolution with container resolution (e.g., 1280×720 , 1024×768).
 
-   4. Change renderer versions:
+   4. Change d3d versions:
 
-       DXVK (e.g., 1.10.3 ,0.96)
+      1. DXVK (e.g., 1.10.3 ,0.96)
+      2. Wined3D (e.g., 4.18 for older games)
+  
+   5. install direct music from the start menu, needed for some games
 
-       Wined3D (e.g., 4.18 for older games).
+   6. Change dsound version
 
+   7. 
+
+      
 ### Performance Optimization
 
 - Boost Performance:
