@@ -38,18 +38,15 @@ Adreno 650 (Snapdragon 865, 865+)
 
 Adreno 660 (Snapdragon 888, 888+)
 
-
-
-- DXVK Acceleration
+# DXVK Supported GPU
 
 Supported: Adreno 610, 618, and higher (7xx Series GPUs).
 
+ # VirGL Supported GPU
 
-- VirGL Acceleration
+# LLVM Supported GPU
 
-- LLVM
-
-
+# Limit
 
 - 64-bit / x64 Application Support
 
