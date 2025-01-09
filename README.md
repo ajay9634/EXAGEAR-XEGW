@@ -56,7 +56,7 @@ Not supported. This mod focuses on 32-bit applications. For 64-bit apps, check o
 
 ### 3D Test Not Working
 
-For Mali or non-Snapdragon SOCs:
+- For Mali or non-Snapdragon SOCs:
 
 1. Go to Container Properties → Renderer → Select VirGL Built-in.
 
@@ -64,7 +64,7 @@ For Mali or non-Snapdragon SOCs:
 
 3. Run the GPU test
 
-### For Snapdragon SOCs:
+- For Snapdragon SOCs:
 
 1. Select Turnip DXVK or Turnip DRI3 Renderer in Container Properties.
 
@@ -108,7 +108,7 @@ Install PulseAudio or specific DSOUND versions (dsound 7).
 
 ### FPS Counter
 
-Enable FPS HUD:
+- Enable FPS HUD:
 
 Go to Container Properties → Extra Launching Arguments → Enable FPS HUD and DXVK HUD.
 
