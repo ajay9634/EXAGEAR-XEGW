@@ -111,12 +111,15 @@ A simple but powerful modification cache by Ajay.
 - Audio Optimization:
 
    Install PulseAudio or specific 
-   DSOUND versions (dsound 7).
-  
+   DSOUND versions (eg.dsound 7).
+
 - Extra optimization
 
-    install various things from the
+  1. install various things from the
     Start Menu
+  2. for d draw games, use wine 4
+  3. try different wrapper 
+  
 
  ### Enable FPS Counter
 
