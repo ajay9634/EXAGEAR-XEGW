@@ -5,8 +5,10 @@
 - added some msxml
 - added some Emulator
 - added some other files
+- added some Registry fixes
 
 # upcoming
 
 - different versions of wine
 - many useful files
+
