@@ -73,11 +73,11 @@ A simple but powerful modification cache by Ajay.
 
  ### Game Crashes
 
-     1. Install required dependencies:
+   1. Install required dependencies:
 
       DirectX , VC Redist, PhysX , Mono Gecko
 
-     2. Change Wine version:
+   2. Change Wine version:
 
       Use Wine 4 for DirectDraw (DDraw) games.
 
@@ -93,25 +93,25 @@ A simple but powerful modification cache by Ajay.
 
  ### Performance Optimization
 
-     1. Boost Performance:
+   1. Boost Performance:
 
-     Go to Start Menu → Boost → Install boost_on.
+   Go to Start Menu → Boost → Install boost_on.
 
-     2. Renderer Settings:
+   2. Renderer Settings:
 
-     Use Zink 11.11.23 for speed.
+   Use Zink 11.11.23 for speed.
 
-     3. Registry
+   3. Registry
      
-     Enable CSMT 3 from the registry.
+   Enable CSMT 3 from the registry.
 
-     4. Audio Optimization:
+   4. Audio Optimization:
 
       Install PulseAudio or specific DSOUND versions (dsound 7).
 
  ### FPS Counter
 
-    - Enable FPS HUD:
+   - Enable FPS HUD:
 
      Go to Container Properties → Extra Launching Arguments → Enable FPS HUD and DXVK HUD.
 
