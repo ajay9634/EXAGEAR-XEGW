@@ -1,1 +1,12 @@
+# update 9 jan 2025
 
+- added latest dxvk and latest wined3d
+- added some physx
+- added some msxml
+- added some Emulator
+- added some other files
+
+# upcoming
+
+- different versions of wine
+- many useful files
