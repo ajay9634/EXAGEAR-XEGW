@@ -95,8 +95,9 @@ A simple but powerful modification cache by Ajay.
 
  1. Boost Performance:
 
-   Go to Start Menu → Boost → Install boost_on.
-
+   Go to Start Menu → Boost → Install
+   boost_on
+   
  2. Renderer Settings:
 
    Use Zink 11.11.23 for speed.
@@ -107,15 +108,19 @@ A simple but powerful modification cache by Ajay.
 
  4. Audio Optimization:
 
-   Install PulseAudio or specific DSOUND versions (dsound 7).
+   Install PulseAudio or specific 
+   DSOUND versions (dsound 7).
    
  5. Extra optimization
 
-    install various things from the Start Menu
+    install various things from the
+    Start Menu
 
  ### Enable FPS Counter
 
-   Go to Container Properties → Extra Launching Arguments → Enable FPS HUD and DXVK HUD.
+   Go to Container Properties → Extra
+   Launching Arguments → Enable FPS
+   HUD and DXVK HUD.
 
 ---
 
