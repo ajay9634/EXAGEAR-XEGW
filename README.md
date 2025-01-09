@@ -46,49 +46,50 @@ A simple but powerful modification cache by Ajay.
 
 ## Limit
 
-- 64-bit / x64 Application Support -Not supported. This mod focuses on 32-bit applications. For 64-bit apps, check out Winlator,mobox,dark OS and other Box64 Emu.
+   - 64-bit / x64 Application Support -Not supported. This mod focuses on 32-bit applications. For 64-bit apps, check out Winlator,mobox,dark OS and other Box64 Emu.
 
-- Latest Android - This may not work on latest Android.
+   - Latest Android Devices - This may not work on latest Android Devices.
+
 
 ---
 
 # Common Problems & Solutions
 
-### 3D Test Not Working
+ ### 3D Test Not Working
 
-- For Mali or non-Snapdragon SOCs:
+   - For Mali or non-Snapdragon SOCs:
 
-1. Go to Container Properties → Renderer → Select VirGL Built-in.
+     1. Go to Container Properties → Renderer → Select VirGL Built-in.
 
-2. Open the container → Start Menu → Install VirGL Built-in from "Install Renderer."
+     2. Open the container → Start Menu → Install VirGL Built-in from "Install Renderer."
 
-3. Run the GPU test
+     3. Run the GPU test
 
-- For Snapdragon SOCs:
+   - For Snapdragon SOCs:
 
-1. Select Turnip DXVK or Turnip DRI3 Renderer in Container Properties.
+     1. Select Turnip DXVK or Turnip DRI3 Renderer in Container Properties.
 
-2. Install Turnip Zink from Start Menu → Install Renderer.
+     2. Install Turnip Zink from Start Menu → Install Renderer.
 
-### Game Crashes
+ ### Game Crashes
 
-1. Install required dependencies:
+     1. Install required dependencies:
 
-DirectX , VC Redist, PhysX , Mono Gecko
+      DirectX , VC Redist, PhysX , Mono Gecko
 
-2. Change Wine version:
+     2. Change Wine version:
 
-Use Wine 4 for DirectDraw (DDraw) games.
+      Use Wine 4 for DirectDraw (DDraw) games.
 
-3. Adjust resolution:
+      3. Adjust resolution:
 
-Match game resolution with container resolution (e.g., 1280×720).
+      Match game resolution with container resolution (e.g., 1280×720).
 
-4. Change renderer versions:
+      4. Change renderer versions:
 
-DXVK (e.g., 1.10.3)
+       DXVK (e.g., 1.10.3)
 
-Wined3D (e.g., 4.18 for older games).
+       Wined3D (e.g., 4.18 for older games).
 
 ### Performance Optimization
 
