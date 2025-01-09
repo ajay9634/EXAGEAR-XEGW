@@ -11,7 +11,7 @@ A simple but powerful modification cache by Ajay.
 
 ## T+Z Acceleration
 
--- Minimum:
+ ### Minimum:
 
 Adreno 610 (Snapdragon 665, 680)
 
@@ -28,7 +28,7 @@ Adreno 620 (Snapdragon 765, 765G)
 Adreno 630 (Snapdragon 845, 850)
 
 
-## Recommended:
+### Recommended:
 
 Adreno 640 (Snapdragon 855, 855+, 860)
 
@@ -38,7 +38,7 @@ Adreno 650 (Snapdragon 865, 865+)
 
 Adreno 660 (Snapdragon 888, 888+)
 
-## DXVK Supported GPU
+### DXVK Supported GPU
 
 Supported: Adreno 610, 618, and higher (7xx Series GPUs).
 
