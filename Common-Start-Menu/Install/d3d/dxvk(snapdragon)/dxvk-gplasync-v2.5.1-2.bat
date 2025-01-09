@@ -30,5 +30,13 @@ Z:\opt\7z.exe x Z:\opt\wget_files\dxvk\%installname%.7z -oZ:\opt\wget_files\temp
 echo *** installing...***
 Xcopy /s /y Z:\opt\wget_files\temp\system32\ C:\windows\system32\ /E /H /C /I
 
+:: updating current d3d
+del "C:\current\d3d\dxvk\*lnk" >NUL 2>&1)
+del "C:\current\d3d\d9vk\*lnk" >NUL 2>&1)
+del "C:\current\d3d\wined3d\*lnk" >NUL 2>&1)
+
+copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\dxvk\%installname%.lnk"
+copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\d9vk\default.lnk"
+
 echo ************************************************
 pause 
