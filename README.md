@@ -54,55 +54,35 @@ Not supported. This mod focuses on 32-bit applications. For 64-bit apps, check o
 
 # Common Problems & Solutions
 
-- 3D Test Not Working
+### 3D Test Not Working
 
 For Mali or non-Snapdragon SOCs:
 
 1. Go to Container Properties → Renderer → Select VirGL Built-in.
 
-
 2. Open the container → Start Menu → Install VirGL Built-in from "Install Renderer."
 
+3. Run the GPU test
 
-3. Run the test.
-
-
-
-- For Snapdragon SOCs:
+### For Snapdragon SOCs:
 
 1. Select Turnip DXVK or Turnip DRI3 Renderer in Container Properties.
 
-
 2. Install Turnip Zink from Start Menu → Install Renderer.
 
-
-
-
-- Game Crashes
+### Game Crashes
 
 1. Install required dependencies:
 
-DirectX
-
-VC Redist
-
-PhysX
-
-Mono Gecko
-
-
+DirectX , VC Redist, PhysX , Mono Gecko
 
 2. Change Wine version:
 
 Use Wine 4 for DirectDraw (DDraw) games.
 
-
-
 3. Adjust resolution:
 
 Match game resolution with container resolution (e.g., 1280×720).
-
-
 
 4. Change renderer versions:
 
@@ -110,43 +90,33 @@ DXVK (e.g., 1.10.3)
 
 Wined3D (e.g., 4.18 for older games).
 
+### Performance Optimization
 
-
-
-- Performance Optimization
-
-Boost Performance:
+1. Boost Performance:
 
 Go to Start Menu → Boost → Install boost_on.
 
-
-Renderer Settings:
+2. Renderer Settings:
 
 Use Zink 11.11.23 for speed.
 
 Enable CSMT 3 from the registry.
 
-
-Audio Optimization:
+3. Audio Optimization:
 
 Install PulseAudio or specific DSOUND versions (dsound 7).
 
-
-
-- FPS Counter
+### FPS Counter
 
 Enable FPS HUD:
 
 Go to Container Properties → Extra Launching Arguments → Enable FPS HUD and DXVK HUD.
 
-
-
-
 ---
 
-- Additional Features
+# Additional Features
 
--- Save Game Management
+### Save Game Management
 
 Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
 
