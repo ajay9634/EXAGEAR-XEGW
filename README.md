@@ -1,10 +1,10 @@
 ---
 
-# EXAGEAR-XEGW MOD AJAY
+# 💥 EXAGEAR-XEGW MOD AJAY
 
 A simple but powerful modification cache by Ajay.
 
-## ED 6.0 FEATURES
+## 💥 ED 6.0 FEATURES
 
   - Different files download by bat or cmd from GitHub
   - Renderer Setup according to Device
@@ -13,7 +13,7 @@ A simple but powerful modification cache by Ajay.
 
 ---
 
-# System Requirements
+# 💥 System Requirements
 
 ## T+Z Supported GPU
 
@@ -59,7 +59,7 @@ A simple but powerful modification cache by Ajay.
 
 ---
 
-# Common Problems & Solutions
+# 💥 Common Problems & Solutions
 
  ### 3D Test Not Working
 
@@ -147,7 +147,7 @@ wine)
 
 ---
 
-# Additional Features
+# 💥 Additional Features
 
 ### Save Game Management
 
@@ -177,7 +177,7 @@ Switch Exagear to force split mode then open Fill memory app and fill extra ram.
 
 ---
 
-# Acknowledgments
+# 💥 Acknowledgments
 
 - WineHQ: Windows Compatibility Layer
 
