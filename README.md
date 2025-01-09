@@ -160,17 +160,17 @@ export import save data feature Supports backing up save data across multiple co
 
   
  ---
-# 💥 Known Bugs
+# ⚠️⚠️ Known Bugs
 
-## 🔥 PulseAudio Issues
+## ⚠️ PulseAudio Issues
 
 Use the XServer XSDL app
 
-## 🔥 older wine bug
+## ⚠️ older wine bug
 
 you may face drive D error sometimes, Restart container to fix this.
 
-## 🔥 Freezing games bug
+## ⚠️ Freezing games bug
 
 Switch Exagear to force split mode then open Fill memory app and fill extra ram.
 
