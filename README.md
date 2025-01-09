@@ -9,7 +9,7 @@ A simple but powerful modification cache by Ajay.
 
 # System Requirements
 
-- T+Z Acceleration
+## T+Z Acceleration
 
 -- Minimum:
 
@@ -28,7 +28,7 @@ Adreno 620 (Snapdragon 765, 765G)
 Adreno 630 (Snapdragon 845, 850)
 
 
--- Recommended:
+## Recommended:
 
 Adreno 640 (Snapdragon 855, 855+, 860)
 
