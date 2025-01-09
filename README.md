@@ -147,27 +147,30 @@ Switch Exagear to force split mode and Try Fill memory app and fill extra ram.
 
 ---
 
-Acknowledgments
+# Acknowledgments
 
-WineHQ: Windows Compatibility Layer
+- WineHQ: Windows Compatibility Layer
 
-DXVK: Direct3D-to-Vulkan Layer by @Doitsujin
+- DXVK: Direct3D-to-Vulkan Layer by @Doitsujin
 
-3D Renderers: Contributions by @alexvorxx
+- 3D Renderers: Contributions by @alexvorxx
 
-Termux-X11: Developed by @Twaik
+- Termux-X11: Developed by @Twaik
 
-Input Bridge: Developed by @DotNetBurst
+- Input Bridge: Developed by @DotNetBurst
+ 
+- Emugear international discord Team
 
+- Emuplay0 discord Team
 
 
 ---
 
 Join the Community
 
-ExaGear Discord: https://discord.gg/Uy3UEMSrtY
+Emugear Discord: [click here](https://discord.gg/Uy3UEMSrtY)
 
-Ajay's Discord: https://dsc.gg/emuplay0
+My Discord: [click here](https://dsc.gg/emuplay0)
 
 
 
