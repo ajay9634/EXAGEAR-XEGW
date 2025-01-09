@@ -158,7 +158,11 @@ Switch Exagear to force split mode and Try Fill memory app and fill extra ram.
 - Termux-X11: Developed by @Twaik
 
 - Input Bridge: Developed by @DotNetBurst
- 
+
+- [Edpatch](https://github.com/ewt45/EDPatch/blob/main/readme/readme_en.md) by ewt45
+  
+- Base cache by Elochnik (Allmod)
+  
 - Emugear international discord Team
 
 - Emuplay0 discord Team
