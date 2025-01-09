@@ -135,17 +135,15 @@ A simple but powerful modification cache by Ajay.
 
 ## PulseAudio Issues
 
-Use the XServer XSDL app or Termux as a workaround:
+Use the XServer XSDL app
 
-   - Install PulseAudio in Termux
-   
-    pkg install pulseaudio -y
+## older wine bug
 
-- Start PulseAudio
+you may face drive D error sometimes, Restart container to fix this.
 
-          pulseaudio --start \ --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1" \ --exit-idle-time=-1
+## Freezing games bug
 
-
+Switch Exagear to force split mode and Try Fill memory app and fill extra ram.
 
 ---
 
