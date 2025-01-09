@@ -4,6 +4,12 @@
 
 A simple but powerful modification cache by Ajay.
 
+## ED 6.0 FEATURES
+
+  - Different files download by bat or cmd from GitHub
+  - Renderer Setup according to Device
+  - save game data to drive D by Ajay prefix (It Can be installed from the Start Menu)
+  - Lightweight base cache
 
 ---
 
@@ -126,9 +132,7 @@ A simple but powerful modification cache by Ajay.
 
   Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
 
-  export import save data feature Supports backing up save data across multiple containers.
-
-
+export import save data feature Supports backing up save data across multiple containers.
 
  ---
  # Known Bugs
@@ -143,7 +147,7 @@ you may face drive D error sometimes, Restart container to fix this.
 
 ## Freezing games bug
 
-Switch Exagear to force split mode and Try Fill memory app and fill extra ram.
+Switch Exagear to force split mode then open Fill memory app and fill extra ram.
 
 ---
 
