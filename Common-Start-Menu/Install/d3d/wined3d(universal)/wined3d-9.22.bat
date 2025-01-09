@@ -27,5 +27,17 @@ Xcopy /s /y Z:\opt\wget_files\temp\system32\ C:\windows\system32\ /E /H /C /I
     ren "Z:\opt\wget_files\temp\wined3d" system32
 Xcopy /s /y Z:\opt\wget_files\temp\system32\ C:\windows\system32\ /E /H /C /I
 )
-pause
-:: Repeat for other parts...
+
+:: updating current d3d
+
+del "C:\current\d3d\dxvk\*lnk" >NUL 2>&1)
+del "C:\current\d3d\dx8\*lnk" >NUL 2>&1)
+del "C:\current\d3d\d9vk\*lnk" >NUL 2>&1)
+del "C:\current\d3d\wined3d\*lnk" >NUL 2>&1)
+del "C:\current\d3d\ddraw\*lnk" >NUL 2>&1)
+
+copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\wined3d\%installname%.lnk"
+copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\dx8\d3d8-%installname%.lnk"
+copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\ddraw\ddraw-%installname%.lnk"
+
+exit
