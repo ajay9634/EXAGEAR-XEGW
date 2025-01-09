@@ -81,11 +81,11 @@ A simple but powerful modification cache by Ajay.
 
       Use Wine 4 for DirectDraw (DDraw) games.
 
-      3. Adjust resolution:
+   3. Adjust resolution:
 
       Match game resolution with container resolution (e.g., 1280×720).
 
-      4. Change renderer versions:
+   4. Change renderer versions:
 
        DXVK (e.g., 1.10.3)
 
