@@ -133,6 +133,9 @@ wine)
     Start Menu
   2. try different wrapper
   3. try low resolution if it's supported
+
+### Controls Optimization
+  Exagear support Costom controls but you can use Input bridge for better Experience.
   
 ### ✅ Check installed Renderer
 
