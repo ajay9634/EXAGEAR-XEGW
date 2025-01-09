@@ -130,21 +130,20 @@ A simple but powerful modification cache by Ajay.
 
 
 
----
+ 
+ # Known Bugs
 
-- Known Bugs
-
--- PulseAudio Issues
+## PulseAudio Issues
 
 Use the XServer XSDL app or Termux as a workaround:
 
-# Install PulseAudio in Termux
-pkg install pulseaudio -y
+   - Install PulseAudio in Termux
+   
+    pkg install pulseaudio -y
 
-# Start PulseAudio
-pulseaudio --start \
-    --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1" \
-    --exit-idle-time=-1
+- Start PulseAudio
+
+          pulseaudio --start \ --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1" \ --exit-idle-time=-1
 
 
 
