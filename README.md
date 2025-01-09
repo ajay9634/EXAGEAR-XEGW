@@ -13,30 +13,30 @@ A simple but powerful modification cache by Ajay.
 
  ### Minimum:
 
-Adreno 610 (Snapdragon 665, 680)
+- Adreno 610 (Snapdragon 665, 680)
 
-Adreno 616 (Snapdragon 710, 712)
+- Adreno 616 (Snapdragon 710, 712)
 
-Adreno 618 (Snapdragon 720G, 730, 730G, 732G)
+- Adreno 618 (Snapdragon 720G, 730, 730G, 732G)
 
-Adreno 619 (Snapdragon 750G, 480)
+- Adreno 619 (Snapdragon 750G, 480)
 
-Adreno 619L (Snapdragon 690)
+- Adreno 619L (Snapdragon 690)
 
-Adreno 620 (Snapdragon 765, 765G)
+- Adreno 620 (Snapdragon 765, 765G)
 
-Adreno 630 (Snapdragon 845, 850)
+- Adreno 630 (Snapdragon 845, 850)
 
 
 ### Recommended:
 
-Adreno 640 (Snapdragon 855, 855+, 860)
+- Adreno 640 (Snapdragon 855, 855+, 860)
 
-Adreno 642L (Snapdragon 778G)
+- Adreno 642L (Snapdragon 778G)
 
-Adreno 650 (Snapdragon 865, 865+)
+- Adreno 650 (Snapdragon 865, 865+)
 
-Adreno 660 (Snapdragon 888, 888+)
+- Adreno 660 (Snapdragon 888, 888+)
 
  ## VirGL Supported GPU
 
