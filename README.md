@@ -52,9 +52,9 @@ A simple but powerful modification cache by Ajay.
 
 ## Limit
 
-   - 64-bit / x64 Application Support -Not supported. This mod focuses on 32-bit applications. For 64-bit apps, check out Winlator,mobox,dark OS and other Box64 Emu.
+   - 64-bit / x64 Application aren't supported : This mod focuses on 32-bit applications. For 64-bit apps, check out Winlator,mobox,dark OS and other Box64 Emu.
 
-   - Latest Android Devices - This may not work on latest Android Devices.
+   - Latest Android Devices : This may not work on latest Android Devices.
 
 
 ---
