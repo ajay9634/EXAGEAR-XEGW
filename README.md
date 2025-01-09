@@ -89,11 +89,11 @@ A simple but powerful modification cache by Ajay.
 
    3. Adjust resolution:
 
-      Match game resolution with container resolution (e.g., 1280×720).
+      Match game resolution with container resolution (e.g., 1280×720 , 1024×768).
 
    4. Change renderer versions:
 
-       DXVK (e.g., 1.10.3)
+       DXVK (e.g., 1.10.3 ,0.96)
 
        Wined3D (e.g., 4.18 for older games).
 
@@ -117,8 +117,8 @@ A simple but powerful modification cache by Ajay.
 
   1. install various things from the
     Start Menu
-  2. for d draw games, use wine 4
-  3. try different wrapper 
+  2. try different wrapper
+  3. try low resolution if it's supported
   
 
  ### Enable FPS Counter
