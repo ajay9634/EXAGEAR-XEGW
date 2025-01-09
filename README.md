@@ -10,7 +10,7 @@ A simple but powerful modification cache by Ajay.
   - Renderer Setup according to Device
   - save game data to drive D by Ajay prefix (It Can be installed from the Start Menu)
   - Lightweight base cache
-
+Direct link [Click here](https://github.com/ajay9634/EXAGEAR-XEGW/releases/tag/Exagear_6.0_lite)
 ---
 
 # 💥 System Requirements
