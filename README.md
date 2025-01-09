@@ -101,8 +101,9 @@ A simple but powerful modification cache by Ajay.
 
    6. Change dsound version
 
-   7. 
+### Check installed Renderer
 
+- Go go start menu/..Renderer/..check currently installed renderer and it will open folder then check it.
       
 ### Performance Optimization
 
