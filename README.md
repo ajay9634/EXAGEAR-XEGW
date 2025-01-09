@@ -101,7 +101,7 @@ A simple but powerful modification cache by Ajay.
 
    6. Change dsound version:
 
-  Try diffrent dsound like dsound 0 for spider man 2 pc, dsound 7 for far cry 2 etc
+      Try diffrent dsound like dsound 0 for spider man 2 pc, dsound 7 for far cry 2 etc
 
 ### Check installed Renderer
 
