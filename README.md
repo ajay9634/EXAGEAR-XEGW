@@ -130,7 +130,7 @@ A simple but powerful modification cache by Ajay.
 
 
 
- 
+ ---
  # Known Bugs
 
 ## PulseAudio Issues
@@ -175,14 +175,3 @@ My Discord: [click here](https://dsc.gg/emuplay0)
 
 
 ---
-
-Support
-
-If you find this helpful, you can support the development here:
-
-
-
----
-
-This GitHub-ready version includes clear formatting, headings, and markdown elements for enhanced readability and professionalism. Let me know if you'd like further tweaks!
-
