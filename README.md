@@ -61,7 +61,7 @@ A simple but powerful modification cache by Ajay.
 
 # 💥 Common Problems & Solutions
 
- ### 3D Test Not Working
+ ### ⚠️ 3D Test Not Working
 
    - For Mali or non-Snapdragon SOCs:
 
@@ -77,7 +77,7 @@ A simple but powerful modification cache by Ajay.
 
      2. Install Turnip Zink from Start Menu → Install Renderer.
 
- ### Game Crashes
+ ### ⚠️ Game Crashes
 
    1. Install required dependencies:
 
@@ -103,11 +103,7 @@ A simple but powerful modification cache by Ajay.
 
       Try diffrent dsound like dsound 0 for spider man 2 pc, dsound 7 for far cry 2 etc
 
-### Check installed Renderer
-
-- Go go start menu/..Renderer/..check currently installed renderer and it will open folder then check it.
-
-### Dxvk compatibility on Exagear
+### ⚠️ Dxvk compatibility on Exagear
 
 - dxvk 0.96 - for directX 10/11 (Supported in any wine)
 - dxvk 1.10 - for some directX 9 games like city racing (Supported in any 
@@ -115,7 +111,7 @@ wine)
 - dxvk 1.10.3 - stable for most directX 9 games (Supported in any wine)
 - dxvk 2.0 to the latest - useful in most dx8 and dx9 games (Supported in wine 7.1 and later)
       
-### Performance Optimization
+### ✅ Performance Optimization
 
 - Boost Performance:
 
@@ -138,8 +134,11 @@ wine)
   2. try different wrapper
   3. try low resolution if it's supported
   
+### ✅ Check installed Renderer
 
- ### Enable FPS Counter
+- Go go start menu/..Renderer/..check currently installed renderer and it will open folder then check it.
+  
+ ### ✅ Enable FPS Counter
 
    Go to Container Properties → Extra
    Launching Arguments → Enable FPS
@@ -149,13 +148,13 @@ wine)
 
 # 💥 Additional Features
 
-### Save Game Management
+### ✅ Save Game Management
 
   Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
 
 export import save data feature Supports backing up save data across multiple containers.
 
-### Extra launching arguments
+### ✅ Extra launching arguments
 
   you can add various cmd and env to Containers.
 
