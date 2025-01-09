@@ -93,27 +93,25 @@ A simple but powerful modification cache by Ajay.
 
  ### Performance Optimization
 
-   1. Boost Performance:
+  1. Boost Performance:
 
    Go to Start Menu → Boost → Install boost_on.
 
-   2. Renderer Settings:
+  2. Renderer Settings:
 
    Use Zink 11.11.23 for speed.
 
-   3. Registry
+  3. Registry
      
    Enable CSMT 3 from the registry.
 
-   4. Audio Optimization:
+  4. Audio Optimization:
 
-      Install PulseAudio or specific DSOUND versions (dsound 7).
+   Install PulseAudio or specific DSOUND versions (dsound 7).
 
- ### FPS Counter
+ ### Enable FPS Counter
 
-   - Enable FPS HUD:
-
-     Go to Container Properties → Extra Launching Arguments → Enable FPS HUD and DXVK HUD.
+   Go to Container Properties → Extra Launching Arguments → Enable FPS HUD and DXVK HUD.
 
 ---
 
@@ -121,9 +119,9 @@ A simple but powerful modification cache by Ajay.
 
 ### Save Game Management
 
-Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
+  Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
 
-export import save data feature Supports backing up save data across multiple containers.
+  export import save data feature Supports backing up save data across multiple containers.
 
 
 
