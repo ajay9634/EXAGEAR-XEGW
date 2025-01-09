@@ -15,7 +15,7 @@ A simple but powerful modification cache by Ajay.
 
 # 💥 System Requirements
 
-## T+Z Supported GPU
+## 🔥 T+Z Supported GPU
 
  ### Minimum:
 
@@ -44,13 +44,13 @@ A simple but powerful modification cache by Ajay.
 
    - Adreno 660 (Snapdragon 888, 888+)
 
-## VirGL Supported GPU
+## 🔥 VirGL Supported GPU
    - All GPU
 
-## LLVM Supported GPU
+## 🔥 LLVM Supported GPU
    - All GPU
 
-## Limit
+## 🔥 Limit
 
    - 64-bit / x64 Application aren't supported : This mod focuses on 32-bit applications. For 64-bit apps, check out Winlator,mobox,dark OS and other Box64 Emu.
 
@@ -161,17 +161,17 @@ export import save data feature Supports backing up save data across multiple co
 
   
  ---
- # Known Bugs
+# 💥 Known Bugs
 
-## PulseAudio Issues
+## 🔥 PulseAudio Issues
 
 Use the XServer XSDL app
 
-## older wine bug
+## 🔥 older wine bug
 
 you may face drive D error sometimes, Restart container to fix this.
 
-## Freezing games bug
+## 🔥 Freezing games bug
 
 Switch Exagear to force split mode then open Fill memory app and fill extra ram.
 
