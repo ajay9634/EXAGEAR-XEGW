@@ -104,6 +104,14 @@ A simple but powerful modification cache by Ajay.
 ### Check installed Renderer
 
 - Go go start menu/..Renderer/..check currently installed renderer and it will open folder then check it.
+
+### Dxvk compatibility on Exagear
+
+- dxvk 0.96 - for directX 10/11 (Supported in any wine)
+- dxvk 1.10 - for some directX 9 games like city racing (Supported in any 
+wine)
+- dxvk 1.10.3 - stable for most directX 9 games (Supported in any wine)
+- dxvk 2.0 to the latest - useful in most dx8 and dx9 games (Supported in wine 7.1 and later)
       
 ### Performance Optimization
 
