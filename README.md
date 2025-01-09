@@ -209,5 +209,5 @@ Emugear Discord: [click here](https://discord.gg/Uy3UEMSrtY)
 My Discord: [click here](https://dsc.gg/emuplay0)
 
 
-
+(note - This Readme file is incomplete, it will be updated later)
 ---
