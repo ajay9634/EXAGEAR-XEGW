@@ -54,7 +54,7 @@ copy "Z:/opt/wget_files/temp/%installname%.tar.xz" "Z:/opt/wineCollection/custom
 cls
 echo.
 color 0a
-ECHO *** Now You have downloaded this wine, now exit the container and install wine from "Add/Remove Wines" feature of the app ***
+ECHO *** You have downloaded this wine, now exit the container and install wine from "Add/Remove Wines" feature of the app ***
 echo.
 pause
 
