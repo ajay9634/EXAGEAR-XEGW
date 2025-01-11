@@ -1,5 +1,8 @@
 @echo off
-echo delete downloaded wines manually but don't delete wine-4.0.4 and wine-8.2.
+echo msgbox "Hello! You can delete downloaded wines manually but don't delete wine-4.0.4 and wine-8.2 !" , vbinformation+vbSystemModal > %tmp%\tmp.vbs
+cscript /nologo %tmp%\tmp.vbs
+del %tmp%\tmp.vbs
+
 taskkill /f /im 7zFM.exe >NUL 2>taskkill /f /im 7zFM.exe >NUL 2>&1
 rmdir /S /Q Z:\opt\7-Zip\temp\
 
