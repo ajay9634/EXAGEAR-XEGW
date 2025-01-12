@@ -33,7 +33,7 @@ echo *** Script made by Ajay ***
 echo.
 rmdir /S /Q "Z:/opt/wget_files/temp"
 mkdir "Z:/opt/wget_files/temp"
-mkdir "Z:/opt/wineCollection/winehq/%installname%/" >NUL 2>&1
+mkdir "Z:/opt/wineCollection/custom/%installname%/" >NUL 2>&1
 
 :: Check if the .din backup file exists
 IF EXIST "Z:/opt/wineCollection/custom/%installname%/%installname%.tar.xz" (
