@@ -16,6 +16,9 @@ A simple but powerful modification cache by Ajay.
 
  _The latest Exagear contents are available by updating scripts_
  
+ [screenshots] 
+ ![Update_Scripts](https://example.com/image-url.png)
+ ![Wine download](https://example.com/image-url.png)
 ---
 
 # 💥 System Requirements
