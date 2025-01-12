@@ -4,7 +4,7 @@ echo ==================================
 set "installname=Wine-5.22-staging"
 echo ***** This is a %installname% *****
 echo.
-echo *** This wine is useful in some older games like Morrowind etc. The Performance is very good but some latest 32 bit games aren't supported. Max Supported dxvk version - 1.10.3 with low performance.  ***
+echo *** This wine is useful in some older games. The Performance is very good but some latest 32 bit games aren't supported. Max Supported dxvk version - 1.10.3 with low performance.  ***
 echo ==================================
 echo.
 echo *** Now choose an option - ***
