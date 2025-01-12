@@ -183,9 +183,15 @@ export import save data feature Supports backing up save data across multiple co
  ---
 # ⚠️ Known Bugs
 
-##  PulseAudio Issues
+## in-built PulseAudio Issue
 
-Use the XServer XSDL app
+- change audio to pulse by registry from the Start Menu.
+
+- Use the XServer XSDL app.
+
+## AlsaAudio issue
+
+- you may face alsa sound issue in X11 apk , change audio to pulse by registry from the Start Menu.
 
 ##  older wine bug
 
