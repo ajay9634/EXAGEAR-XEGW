@@ -161,7 +161,7 @@ wine)
   
  ### ✅ Enable FPS Counter
 
-   Go to Container Properties → Extra
+  - Go to Container Properties → Extra
    Launching Arguments → Enable FPS
    HUD and DXVK HUD.
 
@@ -171,13 +171,13 @@ wine)
 
 ### ✅ Save Game Management
 
-  Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
+ - Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
 
 export import save data feature Supports backing up save data across multiple containers.
 
 ### ✅ Extra launching arguments
 
-  you can add various cmd and env to Containers.
+ - you can add various cmd and env to Containers.
 
   
  ---
