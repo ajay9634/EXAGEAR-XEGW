@@ -18,8 +18,7 @@ A simple but powerful modification cache by Ajay.
 
  
  [screenshots] 
- ![Update_Scripts](https://github.com/ajay9634/EXAGEAR-XEGW/main/.github/update_scripts.jpg)
- ![Wine download](https://example.com/image-url.png)
+ ![Update scripts](https://github.com/ajay9634/EXAGEAR-XEGW/blob/main/.github/update_scripts.jpg)
 ---
 
 # 💥 System Requirements
