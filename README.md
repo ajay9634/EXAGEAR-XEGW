@@ -125,7 +125,9 @@ wine)
 
 - Try different registry fixes from the Start Menu
 
-- Try csmt0 and other registry 
+- Try CSMT 0 for stability or black screen fix
+
+- Install gdi registry for old 2d games
       
 ### ✅ Performance Optimization
 
