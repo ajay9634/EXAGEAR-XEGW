@@ -199,7 +199,7 @@ export import save data feature Supports backing up save data across multiple co
 
 ##  Freezing games bug
 
--Switch Exagear to force split mode then open Fill memory app and fill extra ram.
+- Switch Exagear to force split mode then open Fill memory app and fill extra ram.
 - Try CSMT 0 registry 
 ---
 
