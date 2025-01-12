@@ -111,6 +111,21 @@ A simple but powerful modification cache by Ajay.
 wine)
 - dxvk 1.10.3 - stable for most directX 9 games (Supported in any wine)
 - dxvk 2.0 to the latest - useful in most dx8 and dx9 games (Supported in wine 7.1 and later)
+
+### ✅ Compatibility Optimization
+
+- install MPC player and it's codecs to fix sound and video issues
+  ( eg. Morrowind sound issue)
+  
+- install wine 8.2 for better compatibility or install different wine from the Start Menu 
+
+- try different core
+
+- try different wined3d or dxvk
+
+- Try different registry fixes from the Start Menu
+
+- Try csmt0 and other registry 
       
 ### ✅ Performance Optimization
 
