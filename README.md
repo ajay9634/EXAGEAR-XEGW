@@ -173,7 +173,7 @@ wine)
 
  - Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
 
-- Note - Export Import save data feature Supports backing up save data across multiple containers.
+ _Export Import save data feature Supports backing up save data across multiple containers_
 
 ### ✅ Extra launching arguments
 
@@ -193,7 +193,7 @@ wine)
 
 - You may face alsa sound issue in X11 apk , change audio to pulse by registry from the Start Menu.
 
-##  older wine bug
+##  Older wine bug
 
 - You may face drive D error sometimes, Restart container to fix this.
 
