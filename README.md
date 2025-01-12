@@ -6,9 +6,10 @@ A simple but powerful modification cache by Ajay.
 
 ## 💥 ED 6.0 FEATURES
 
-  - Different files download by bat or cmd from GitHub
+  - Necessary files and wines download by bat or cmd from GitHub
   - Renderer Setup according to Device
-  - save game data to drive D by Ajay prefix (It Can be installed from the Start Menu)
+  - Save game data to drive D by Ajay prefix (It Can be installed from the Start Menu)
+  - Better Performance
   - Lightweight base cache
 
     🔗 Direct link [Click here](https://github.com/ajay9634/EXAGEAR-XEGW/releases/tag/Exagear_6.0_lite)
