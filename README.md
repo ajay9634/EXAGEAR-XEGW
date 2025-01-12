@@ -106,22 +106,22 @@ A simple but powerful modification cache by Ajay.
 
 ### ⚠️ Dxvk compatibility on Exagear
 
-- dxvk 0.96 - for directX 10/11 (Supported in any wine)
-- dxvk 1.10 - for some directX 9 games like city racing (Supported in any 
+- Dxvk 0.96 - for directX 10/11 (Supported in any wine)
+- Dxvk 1.10 - for some directX 9 games like city racing (Supported in any 
 wine)
-- dxvk 1.10.3 - stable for most directX 9 games (Supported in any wine)
-- dxvk 2.0 to the latest - useful in most dx8 and dx9 games (Supported in wine 7.1 and later)
+- Dxvk 1.10.3 - stable for most directX 9 games (Supported in any wine)
+- Dxvk 2.0 to the latest - useful in most dx8 and dx9 games (Supported in wine 7.1 and later)
 
 ### ✅ Compatibility Optimization
 
-- install MPC player and it's codecs to fix sound and video issues
+- Install MPC player and it's codecs to fix sound and video issues
   ( eg. Morrowind sound issue)
   
-- install wine 8.2 for better compatibility or install different wine from the Start Menu 
+- Install wine 8.2 for better compatibility or install different wine from the Start Menu 
 
-- try different core
+- Try different core
 
-- try different wined3d or dxvk
+- Try different wined3d or dxvk
 
 - Try different registry fixes from the Start Menu
 
@@ -147,10 +147,10 @@ wine)
 
 - Extra optimization
 
-  1. install various things from the
+  1. Install various things from the
     Start Menu
-  2. try different wrapper
-  3. try low resolution if it's supported
+  2. Try different wrapper
+  3. Try low resolution if it's supported
 
 ### ✅ Controls Optimization
   Exagear support Costom controls but you can use Input bridge for better Experience.
@@ -173,29 +173,29 @@ wine)
 
  - Use Export/Import Save Data from the Start Menu. you can install Ajay prefix (save game to drive D) from the start menu. so you can continue games in different container with ajay prefix installed. you can continue games in other Emu too like winlator ajay with ajay prefix.
 
-export import save data feature Supports backing up save data across multiple containers.
+- Note - Export Import save data feature Supports backing up save data across multiple containers.
 
 ### ✅ Extra launching arguments
 
- - you can add various cmd and env to Containers.
+ - You can add various cmd and env to Containers.
 
   
  ---
 # ⚠️ Known Bugs
 
-## in-built PulseAudio Issue
+## In-built PulseAudio Issue
 
-- change audio to pulse by registry from the Start Menu.
+- Change audio to pulse by registry from the Start Menu.
 
 - Use the XServer XSDL app.
 
 ## AlsaAudio issue
 
-- you may face alsa sound issue in X11 apk , change audio to pulse by registry from the Start Menu.
+- You may face alsa sound issue in X11 apk , change audio to pulse by registry from the Start Menu.
 
 ##  older wine bug
 
-- you may face drive D error sometimes, Restart container to fix this.
+- You may face drive D error sometimes, Restart container to fix this.
 
 ##  Freezing games bug
 
