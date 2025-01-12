@@ -13,6 +13,9 @@ A simple but powerful modification cache by Ajay.
   - Lightweight base cache
 
     🔗 Direct link [Click here](https://github.com/ajay9634/EXAGEAR-XEGW/releases/tag/Exagear_6.0_lite)
+
+ _The latest Exagear contents are available by updating scripts_
+ 
 ---
 
 # 💥 System Requirements
@@ -233,6 +236,3 @@ Emugear Discord: [click here](https://discord.gg/Uy3UEMSrtY)
 
 My Discord: [click here](https://dsc.gg/emuplay0)
 
-
-(note - This Readme file is incomplete, it will be updated later)
----
