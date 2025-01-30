@@ -39,7 +39,7 @@ IF EXIST "Z:/opt/wget_files/physx/PhysX-9.21.0713-SystemSoftware.din" (
     echo.
     ECHO ! backup file not found, downloading...
     echo.
-    wget -O "Z:/opt/wget_files/temp/PhysX-9.21.0713-SystemSoftware.exe" --progress=dot:mega  https://us.download.nvidia.com/Windows/9.21.0713/PhysX_9.21.0713_SystemSoftware.exe
+    wget q --show-progress -P "Z:/opt/wget_files/temp/" https://us.download.nvidia.com/Windows/9.21.0713/PhysX_9.21.0713_SystemSoftware.exe
     copy "Z:/opt/wget_files/temp/PhysX-9.21.0713-SystemSoftware.exe" "Z:/opt/wget_files/physx/PhysX-9.21.0713-SystemSoftware.din"
     echo.
     ECHO *** Download complete, installing...**"
