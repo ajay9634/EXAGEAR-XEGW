@@ -13,7 +13,7 @@ color 0A
 echo.
 echo *** Downloading %installname% ***
 IF NOT EXIST "Z:/opt/wget_files/wined3d/%installname%.zip" (
-    wget -O Z:/opt/wget_files/temp/%installname%.zip https://downloads.fdossena.com/Projects/WineD3D/Builds/WineD3DForWindows_10.0-rc4.zip
+    wget -O Z:/opt/wget_files/temp/%installname%.zip https://downloads.fdossena.com/Projects/WineD3D/Builds/WineD3DForWindows_10.zip
     copy "Z:/opt/wget_files/temp/%installname%.zip" "Z:/opt/wget_files/wined3d/%installname%.zip"
     echo Extracting....
     Z:\opt\winrar.exe x Z:\opt\wget_files\wined3d\%installname%.zip Z:\opt\wget_files\temp\ -r -y >NUL 2>&1
