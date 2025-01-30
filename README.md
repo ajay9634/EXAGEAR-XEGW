@@ -21,7 +21,12 @@ A simple but powerful modification cache by Ajay.
  ![Update scripts](https://github.com/ajay9634/EXAGEAR-XEGW/blob/main/.github/update_scripts.jpg)
 
 ![Wine Download](https://github.com/ajay9634/EXAGEAR-XEGW/blob/main/.github/wine%20download.jpg)
- 
+
+# Current Status
+
+Update paused !
+Only "Update_scripts" feature will be updated if it's needed.
+
 ---
 
 # 💥 System Requirements
