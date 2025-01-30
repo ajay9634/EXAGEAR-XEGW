@@ -17,7 +17,7 @@ color 0A
 echo.
 echo *** Downloading %installname%  ***
 IF NOT EXIST "Z:\opt\wget_files\dxvk\%installname%.7z" (
-    wget -P Z:/opt/wget_files/temp/ --progress=dot:mega https://raw.githubusercontent.com/ajay9634/EXAGEAR-XEGW/Resources/My-files/%installname%.7z
+    wget q --show-progress -P Z:/opt/wget_files/temp/ --progress=dot:mega https://raw.githubusercontent.com/ajay9634/EXAGEAR-XEGW/Resources/My-files/%installname%.7z
     copy /s /y Z:\opt\wget_files\temp\%installname%.7z Z:\opt\wget_files\dxvk\%installname%.7z /E /H /C /I
 ) ELSE (
     ECHO %installname% file already exists.
