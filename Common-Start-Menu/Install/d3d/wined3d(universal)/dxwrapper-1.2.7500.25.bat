@@ -30,14 +30,16 @@ echo *** installing...***
 Xcopy /s /y Z:\opt\wget_files\temp\system32\ C:\windows\system32\ /E /H /C /I
 
 :: updating current d3d
-del "C:\current\d3d\dxvk\*lnk" >NUL 2>&1)
-del "C:\current\d3d\d9vk\*lnk" >NUL 2>&1)
-del "C:\current\d3d\wined3d\*lnk" >NUL 2>&1)
+del "C:\current\d3d\dxvk\*.lnk" >nul 2>&1
+del "C:\current\d3d\ddraw\*.lnk" >nul 2>&1
+del "C:\current\d3d\dx8\*.lnk" >nul 2>&1
+del "C:\current\d3d\d9vk\*.lnk" >nul 2>&1
+del "C:\current\d3d\wined3d\*.lnk" >nul 2>&1
 
 copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\dxvk\%installname%.lnk"
 copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\d9vk\default.lnk"
-
-copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\wined3d\%installname%.lnk"
+copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\dx8\%installname%.lnk"
+copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\ddraw\%installname%.lnk"
 
 notepad.exe C:\windows\system32\dxwrapper.ini
 
