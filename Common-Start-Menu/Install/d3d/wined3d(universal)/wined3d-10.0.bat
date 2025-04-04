@@ -13,7 +13,7 @@ color 0A
 echo.
 echo *** Downloading %installname% ***
 IF NOT EXIST "Z:/opt/wget_files/wined3d/%installname%.zip" (
-    wget q --show-progress -P Z:/opt/wget_files/temp/ https://downloads.fdossena.com/Projects/WineD3D/Builds/WineD3DForWindows_10.0.zip
+    wget -q --show-progress -P Z:/opt/wget_files/temp/ https://downloads.fdossena.com/Projects/WineD3D/Builds/WineD3DForWindows_10.0.zip
 
 ren Z:/opt/wget_files/temp/WineD3DForWindows_10.0.zip %installname%.zip
     copy "Z:/opt/wget_files/temp/%installname%.zip" "Z:/opt/wget_files/wined3d/%installname%.zip"
