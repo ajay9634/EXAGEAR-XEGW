@@ -5,7 +5,7 @@
 - added d3d8 to d3d9ex wrapper by Bruno's
 - added ajay hotkeys for Taskmgr etc
 
-[ theses are combos for hotkeys
+[ these are combos for hotkeys
 
 ; Alt + F1 = Open Command Prompt
 ; Alt + F2 = Open Winecfg
