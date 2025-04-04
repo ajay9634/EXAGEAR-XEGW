@@ -38,5 +38,13 @@ echo *** installing...***
 ren "Z:/opt/wget_files/temp\dxvk-%version%\x32" system32
 Xcopy /s /y Z:\opt\wget_files\temp\dxvk-%version%\system32\ C:\windows\system32\ /E /H /C /I
 
+: updating current d3d: updating current d3d: updating current d3d: updating current d3d
+del "C:\current\d3d\dxvk\*lnk" >NUL 2>&1)
+del "C:\current\d3d\d9vk\*lnk" >NUL 2>&1)
+del "C:\current\d3d\wined3d\*lnk" >NUL 2>&1)
+
+copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\dxvk\dxvk-%version%.lnk"
+copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\d9vk\default.lnk"
+
 echo ************************************************
 timeout.exe 5 /nobreak
