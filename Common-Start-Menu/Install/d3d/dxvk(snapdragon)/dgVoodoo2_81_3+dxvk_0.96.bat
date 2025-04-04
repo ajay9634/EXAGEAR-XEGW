@@ -40,7 +40,7 @@ copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\dxvk\%installname%.lnk"
 copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\d9vk\default.lnk"
 copy /f /s /y "Z:\opt\fsutil.lnk" "C:\current\d3d\wined3d\%installname%.lnk"
 
-notepad.exe C:\windows\system32\dgVoodooCpl.exe
+Start C:\windows\system32\dgVoodooCpl.exe
 
 echo ************************************************
 exit
