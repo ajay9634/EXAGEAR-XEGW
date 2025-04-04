@@ -1,3 +1,11 @@
+# update 4 April 2025
+
+- updated scripts
+- added dgvoodoo wrapper with dxvk 0.96
+- added d3d8 to d3d9ex wrapper by Bruno's
+
+=======================================
+
 # update 12 jan 2025
 
 - added wine 3.19 staging
