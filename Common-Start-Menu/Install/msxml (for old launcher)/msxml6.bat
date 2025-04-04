@@ -13,7 +13,7 @@ color 0A
 echo.
 echo *** Downloading msxml6  ***
 IF NOT EXIST "Z:\opt\wget_files\Files\msxml6.7z" (
-    wget q --show-progress -P Z:/opt/wget_files/temp/ --progress=dot:mega https://raw.githubusercontent.com/ajay9634/Ajay-prefix/Resources/My-files/msxml6.7z
+    wget -q --show-progress -P Z:/opt/wget_files/temp/ --progress=dot:mega https://raw.githubusercontent.com/ajay9634/Ajay-prefix/Resources/My-files/msxml6.7z
     copy /s /y Z:\opt\wget_files\temp\msxml6.7z Z:\opt\wget_files\Files\msxml6.7z /E /H /C /I
 ) ELSE (
     ECHO msxml6 file already exists.
