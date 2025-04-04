@@ -4,6 +4,7 @@ set "installname=Ajay_hotkeys_Exagear"
 color 0a
 echo *** wait....***
 echo *** deleting temp files...***
+taskkill /F /IM Ajay_hotkeys_Exagear.exe >nul 2>&1
 rmdir /S /Q "Z:/opt/wget_files/temp"
 mkdir "Z:/opt/wget_files/temp"
 echo *** deleted temp files ***
@@ -26,7 +27,6 @@ color 1f
 echo *** Extracting ...***
 Z:\opt\7z.exe x Z:\opt\wget_files\Files\%installname%.7z -oZ:\opt\wget_files\temp\ -p1 -r -y >NUL 2>&1
 echo *** installing...***
-taskkill /F /IM Ajay_hotkeys_Exagear.exe >nul 2>&1
 start "" "Z:\opt\wget_files\temp\Ajay_hotkeys_Exagear.exe"
 timeout.exe 2 /nobreak
 exit
