@@ -2,8 +2,9 @@
 color 0a
 set installname=%~n0
 echo *** deleting temp files...***
-rmdir /S /Q "Z:/opt/wget_files/temp"
-mkdir "Z:/opt/wget_files/temp"
+rmdir /S /Q "Z:/opt/wget_files/temp" >NUL 2>&1
+mkdir "Z:/opt/wget_files/temp" >NUL 2>&1
+mkdir "Z:/opt/wget_files/wined3d" >NUL 2>&1
 echo *** deleted temp files ***
 echo .
 echo *** script made by Ajay ***
