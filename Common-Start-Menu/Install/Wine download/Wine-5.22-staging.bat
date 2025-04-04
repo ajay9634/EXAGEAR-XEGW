@@ -49,7 +49,7 @@ echo.
 color 1f
 ECHO ! Downloaded wine not found, downloading...
 echo.
-wget q --show-progress -P "Z:/opt/wget_files/temp/" --progress=dot:mega https://github.com/ajay9634/EXAGEAR-XEGW/raw/Resources/Wine/%installname%-x86.tar.xz
+wget -q --show-progress -P "Z:/opt/wget_files/temp/" --progress=dot:mega https://github.com/ajay9634/EXAGEAR-XEGW/raw/Resources/Wine/%installname%-x86.tar.xz
 copy "Z:/opt/wget_files/temp/%installname%.tar.xz" "Z:/opt/wineCollection/custom/%installname%/%installname%.tar.xz"
 cls
 echo.
