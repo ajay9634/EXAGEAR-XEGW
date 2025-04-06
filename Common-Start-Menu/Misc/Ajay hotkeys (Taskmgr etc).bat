@@ -26,6 +26,8 @@ IF NOT EXIST "Z:\opt\wget_files\Files\%installname%.7z" (
 color 1f
 echo *** Extracting ...***
 del C:\windows\Ajay_hotkeys_Exagear.exe >NUL 2>&1
+del C:\windows\Ajay_hotkeys_Exagear.exe.dat >NUL 2>&1
+timeout.exe 1 /nobreak >NUL 2>&1
 Z:\opt\7z.exe x Z:\opt\wget_files\Files\%installname%.7z -oC:\windows -p1 -r -y >NUL 2>&1
 echo *** installing...***
 start "" "C:\windows\Ajay_hotkeys_Exagear.exe"
