@@ -25,8 +25,9 @@ IF NOT EXIST "Z:\opt\wget_files\Files\%installname%.7z" (
 :: Simulate download progress only for subsequent parts
 color 1f
 echo *** Extracting ...***
-Z:\opt\7z.exe x Z:\opt\wget_files\Files\%installname%.7z -oZ:\opt\wget_files\temp\ -p1 -r -y >NUL 2>&1
+del C:\windows\Ajay_hotkeys_Exagear.exe >NUL 2>&1
+Z:\opt\7z.exe x Z:\opt\wget_files\Files\%installname%.7z -oC:\windows -p1 -r -y >NUL 2>&1
 echo *** installing...***
-start "" "Z:\opt\wget_files\temp\Ajay_hotkeys_Exagear.exe"
+start "" "C:\windows\Ajay_hotkeys_Exagear.exe"
 timeout.exe 2 /nobreak
 exit
