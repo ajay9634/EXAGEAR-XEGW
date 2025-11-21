@@ -7,6 +7,7 @@ rmdir /S /Q "Z:/opt/wget_files/temp"
 mkdir "Z:/opt/wget_files/temp"
 echo *** deleted temp files ***
 echo .
+if not exist C:\first_time_setup.bat echo @echo off > C:\first_time_setup.bat
 echo *** script made by Ajay ***
 
 color 0A
