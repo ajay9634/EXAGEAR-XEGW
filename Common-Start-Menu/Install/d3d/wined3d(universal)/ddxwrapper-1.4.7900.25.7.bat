@@ -1,5 +1,5 @@
 @echo off
-set "installname=dxwrapper-1.2.7500.25"
+set "installname=dxwrapper-1.4.7900.25"
 :: Remove the prefix "dxvk-" and keep the part after it
 color 0a
 echo *** wait....***
