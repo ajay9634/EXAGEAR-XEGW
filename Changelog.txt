@@ -3,6 +3,7 @@
 # update 21 Nov 2025
 
 - Added some dxvk
+- Added old dgvoodoo2 and some ddraw wrapper
 - Added Autoit and some GUI script apps
 - Added new Ajay Hotkeys pro v1.2
 
