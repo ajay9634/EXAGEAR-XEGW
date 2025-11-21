@@ -1,28 +1,18 @@
+=======================================
+
+# update 21 Nov 2025
+
+- Added some dxvk
+- Added Autoit and some GUI script apps
+- Added new Ajay Hotkeys pro v1.2
+
+=======================================
+
 # update 4 April 2025
 
 - updated scripts
 - added dgvoodoo wrapper with dxvk 0.96
 - added d3d8 to d3d9ex wrapper by Bruno's
-- added ajay hotkeys for Taskmgr etc
-
-[ these are combos for hotkeys
-
-; Alt + F1 = Open Command Prompt
-; Alt + F2 = Open Winecfg
-; Alt + F3 = Open Regedit
-; Alt + F4 = Close current app (Force Kill)
-; Alt + F5 = Open Task Manager
-; Alt + F6 = Open Notepad
-; Alt + F7 = Open 7-Zip
-; Alt + F8 = Open TFM
-; Alt + F9 = Open Explorer.exe
-; Alt + F10 = Run ib.exe from D:\InputBridge\Installer\ib.exe
-; Alt + F11 = Toggle Force Fullscreen
-; Alt + F12 = Show Shortcut List
-; Alt + T = Tilde (~)
-; Alt + B = Backtick (`) ]
-
-
 =======================================
 
 # update 12 jan 2025
