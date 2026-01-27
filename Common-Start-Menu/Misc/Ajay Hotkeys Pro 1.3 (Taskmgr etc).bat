@@ -45,7 +45,7 @@ reg add "HKCR\AjAutoItScript\Shell" /ve /d "Open" /f >nul
 reg add "HKCR\AjAutoItScript\Shell\Open\Command" /ve /d "\"C:\\Program Files\\AutoIt3\\AutoIt3.exe\" \"%%1\" %%*" /f >nul
 
 :Scripts_Check
-IF NOT EXIST "Z:\opt\AutoIt3_Scripts\Ajay_Hotkeys_Pro_1.2.ajau3" (
+IF NOT EXIST "Z:\opt\AutoIt3_Scripts\Ajay_Hotkeys_Pro_1.3.ajau3" (
     goto Scripts_Download
 ) ELSE (
     goto Run
@@ -63,8 +63,8 @@ Z:\opt\7z.exe x Z:\opt\wget_files\temp\AutoIt3_Scripts.7z -o"Z:\opt"  -r -y >NUL
 :Run
 color 1f
 echo *** Opening ...***
-IF EXIST "Z:\opt\AutoIt3_Scripts\Ajay_Hotkeys_Pro_1.2.ajau3" (
-    start "" "C:\Program Files\AutoIt3\AutoIt3.exe" "Z:\opt\AutoIt3_Scripts\Ajay_Hotkeys_Pro_1.2.ajau3"
+IF EXIST "Z:\opt\AutoIt3_Scripts\Ajay_Hotkeys_Pro_1.3.ajau3" (
+    start "" "C:\Program Files\AutoIt3\AutoIt3.exe" "Z:\opt\AutoIt3_Scripts\Ajay_Hotkeys_Pro_1.3.ajau3"
 ) ELSE (
     echo File not Found
     pause
