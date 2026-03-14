@@ -12,8 +12,6 @@ A simple but powerful modification cache by Ajay.
   - Better Performance
   - Lightweight base cache
 
-    🔗 Direct link [Click here](https://github.com/ajay9634/EXAGEAR-XEGW/releases/tag/Exagear_6.0_lite)
-
  _The latest Exagear contents are available by updating scripts_
 
  
@@ -240,10 +238,3 @@ wine)
 
 
 ---
-
-Join the Community
-
-Emugear Discord: [click here](https://discord.gg/Uy3UEMSrtY)
-
-My Discord: [click here](https://dsc.gg/emuplay0)
-
