@@ -3,7 +3,7 @@ echo .
 
 :version_input
 :: Allow the user to type or confirm the version before proceeding
-set /p "version=Type the version: "
+set /p "version=Type dxvk version (eg 2.7.1): "
 
 echo You entered version: %version%
 echo.
