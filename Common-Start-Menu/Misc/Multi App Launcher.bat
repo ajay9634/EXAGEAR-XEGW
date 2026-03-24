@@ -11,6 +11,9 @@ echo *** script made by Ajay ***
 
 color 0A
 echo.
+IF EXIST "C:\Program Files\AutoIt3\AutoIt3.exe" (
+    goto Scripts_Check
+)
 
 IF NOT EXIST "Z:\opt\wget_files\Files\%installname%.7z" (
     echo *** Downloading %installname%  ***
