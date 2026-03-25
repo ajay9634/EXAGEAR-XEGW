@@ -48,7 +48,7 @@ reg add "HKCR\AjAutoItScript\Shell" /ve /d "Open" /f >nul
 reg add "HKCR\AjAutoItScript\Shell\Open\Command" /ve /d "\"C:\\Program Files\\AutoIt3\\AutoIt3.exe\" \"%%1\" %%*" /f >nul
 
 :Scripts_Check
-IF NOT EXIST "Z:\opt\AutoIt3_Scripts\Ajay_Hotkeys_Pro_1.2.ajau3" (
+IF NOT EXIST "Z:\opt\AutoIt3_Scripts\App Paths Manager.ajau3" (
     goto Scripts_Download
 ) ELSE (
     goto Run
