@@ -4,11 +4,14 @@
 
 A simple but powerful modification cache by Ajay.
 
-## 💥 ED 6.0 FEATURES
+## 💥 ED 6.1 FEATURES
 
-  - Necessary files and wines download by bat or cmd from GitHub
+  - Device selection GUI script
   - Renderer Setup according to Device
-  - Save game data to drive D by Ajay prefix (It Can be installed from the Start Menu)
+  - Fully automatic setup after device selection
+  - Some Autoit GUI scripts
+  - Necessary files and wines download by bat or cmd from GitHub
+  - Save game data to any folder by Ajay prefix Pro (It Can be installed from the Start Menu)
   - Better Performance
   - Lightweight base cache
 
@@ -22,12 +25,12 @@ A simple but powerful modification cache by Ajay.
 
 # Current Status
 
-Update paused !
+Exagear 6.1 is the final release.
 Only "Update_scripts" feature will be updated if it's needed.
 
 ---
 
-# 💥 System Requirements
+# 💥 System Requirements (32bit)
 
 ## 🔥 T+Z Supported GPU
 
